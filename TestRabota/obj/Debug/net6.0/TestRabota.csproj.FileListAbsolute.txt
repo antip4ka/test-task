@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\TestRabota\bin\Debug\net6.0\TestRabota.exe
+C:\Users\Darhan\source\repos\TestRabota\bin\Debug\net6.0\TestRabota.deps.json
+C:\Users\Darhan\source\repos\TestRabota\bin\Debug\net6.0\TestRabota.runtimeconfig.json
+C:\Users\Darhan\source\repos\TestRabota\bin\Debug\net6.0\TestRabota.dll
+C:\Users\Darhan\source\repos\TestRabota\bin\Debug\net6.0\TestRabota.pdb
+C:\Users\Darhan\source\repos\TestRabota\obj\Debug\net6.0\TestRabota.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\TestRabota\obj\Debug\net6.0\TestRabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\TestRabota\obj\Debug\net6.0\TestRabota.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\TestRabota\obj\Debug\net6.0\TestRabota.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\TestRabota\obj\Debug\net6.0\TestRabota.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\TestRabota\obj\Debug\net6.0\TestRabota.dll
+C:\Users\Darhan\source\repos\TestRabota\obj\Debug\net6.0\refint\TestRabota.dll
+C:\Users\Darhan\source\repos\TestRabota\obj\Debug\net6.0\TestRabota.pdb
+C:\Users\Darhan\source\repos\TestRabota\obj\Debug\net6.0\TestRabota.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\TestRabota\obj\Debug\net6.0\ref\TestRabota.dll
